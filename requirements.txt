@@ -3,4 +3,5 @@ langchain-core
 langsmith
 python-dotenv
 streamlit
-C:\Users\jayas\AppData\Local\Programs\Ollama\ollama.exe
+Chatollama
+ollama3.2:1b
