@@ -3,5 +3,4 @@ langchain-core
 langsmith
 python-dotenv
 streamlit
-Chatollama
-ollama3.2:1b
+langchain_ollama
