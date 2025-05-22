@@ -3,4 +3,5 @@ langchain-core
 langsmith
 python-dotenv
 streamlit
-langchain_ollama
+langchain-ollama
+
